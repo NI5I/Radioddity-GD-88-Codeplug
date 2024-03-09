@@ -1,0 +1,30 @@
+Name,DMR ID,Type,RX Group
+Local,9,Group,None
+BM WW,91,Group,None
+BM USA,3100,Group,"Hotspot,Anywhere"
+N America,3,Group,"Hotspot,Anywhere"
+WW Eng,13,Group,"Anywhere"
+BM N Ameri,93,Group,"Hotspot,Anywhere"
+TAC-310,310,Group,"Hotspot,Anywhere"
+TAC-311,311,Group,None
+TAC-312,312,Group,None
+Clear TS,4000,Group,None
+BM Parrot,9990,Private,None
+Pi Shutdow,9999996,Group,None
+Pi Reboot,9999997,Group,None
+Pi Svc Kil,9999999,Group,None
+Pi Scv Rst,9999998,Group,None
+Rpt Parrot,9998,Group,None
+MS SW,3128,Group,None
+SE Region,3174,Group,None
+Lucedale,312801,Group,None
+Hurricane,3199,Group,None
+1st Coast,31121,Group,None
+MS TAC,31280,Group,None
+Kingsland,311307,Group,None
+AL SW,3101,Group,None
+FL SW,3112,Group,None
+LA SW,3122,Group,None
+SE LA,31225,Group,None
+TX SW,3148,Group,None
+AL Link,31010,Group,None
