@@ -10,9 +10,9 @@ Feel free to reach out to me if you have any requests.
 
 ## Features
 This is the initial version of the codeplug.
- - 35 Channels
- - 29 Talk Groups
- - 2 Zones
+ - 64 Channels
+ - 30 Talk Groups
+ - 3 Zones
  
  Yeah, I know. Pretty spartan. More's coming.
  
