@@ -1,0 +1,1174 @@
+Name,DMR ID,Type,RX Group
+NO TALKGRO,1,Group,None
+Local-2,2,Group,None
+MARC3 Nort,3,Group,None
+Local-9,9,Group,None
+MARC13 WW ,13,Group,None
+DMR Simple,99,Group,None
+Alabama,3101,Group,None
+Alabama TA,31019,Group,None
+Alabama Li,31010,Group,None
+Gulf Coast,31011,Group,None
+Old Quadne,31012,Group,None
+Alabama AL,31013,Group,None
+Huntsville,31014,Group,None
+Central Al,31015,Group,None
+Northwest ,31016,Group,None
+East Alaba,31017,Group,None
+Tuscaloosa,310102,Group,None
+Tallapoosa,310530,Group,None
+Chelsea, A,312264,Group,None
+96 ARC, AL,312572,Group,None
+Alexander,,312584,Group,None
+Pinson, AL,3101250,Group,None
+Alaska,3102,Group,None
+Alaska TAC,31020,Group,None
+AK Contest,31021,Group,None
+Alaska Sky,31022,Group,None
+Fairbanks ,311485,Group,None
+Arizona,3104,Group,None
+Arizona TA,31041,Group,None
+Arizona Em,31040,Group,None
+AZ OEI Rpt,31677,Group,None
+Tucson Ari,310410,Group,None
+Payson Ari,311568,Group,None
+Ash Fork A,313540,Group,None
+Pinetop-La,310430,Group,None
+Arkansas,3105,Group,None
+Arkansas T,31050,Group,None
+Arkansas W,31051,Group,None
+Arkansas A,31052,Group,None
+North Cent,31055,Group,None
+Northwest,,31058,Group,None
+LittleRock,310501,Group,None
+Little Roc,310504,Group,None
+Harrison, ,310502,Group,None
+Jonesboro,,310514,Group,None
+Mena, AR,310517,Group,None
+HotSprings,311575,Group,None
+Pine Bluff,311489,Group,None
+Jasper, AR,313188,Group,None
+Malvern, A,311678,Group,None
+Marianna, ,312487,Group,None
+Royal, AR,310150,Group,None
+Conway, AR,310508,Group,None
+2M Crew, A,3149964,Group,None
+Geeks Jeep,31059,Group,None
+KC5DJR-R,313464,Group,None
+California,3106,Group,None
+California,31072,Group,None
+California,31061,Group,None
+Mtn West,31062,Group,None
+Mtn West-1,31063,Group,None
+CalNet,312556,Group,None
+NorCal All,31065,Group,None
+SoCal,31066,Group,None
+SoCal 1,31067,Group,None
+NorCal,31068,Group,None
+NorCal 1,31069,Group,None
+NorCal Dis,310681,Group,None
+NorCal 515,95150,Group,None
+NorCal-DMR,310606,Group,None
+Western St,3107,Group,None
+Ventura Co,31071,Group,None
+Ventura Co,31070,Group,None
+Palos Verd,31060,Group,None
+PVARC-?,761002,Group,None
+SantaBarba,31073,Group,None
+Clara Coun,31064,Group,None
+Sonoma Co,,31707,Group,None
+BayNet,31075,Group,None
+BayCom-1,97150,Group,None
+BayCom-2,310660,Group,None
+Bay Area A,51569,Group,None
+Bay Area-1,311433,Group,None
+San Franci,311040,Group,None
+San Franci,312470,Group,None
+California,31076,Group,None
+PAPA Chat,31077,Group,None
+PAPA Bridg,31078,Group,None
+CA Alert R,31079,Group,None
+PINOYHAMS,,31775,Group,None
+CA FDMRCCU,31689,Group,None
+Tri-Lert E,310706,Group,None
+California,310604,Group,None
+Kings of D,31620,Group,None
+C.A.R.E.S.,31683,Group,None
+Jefferson ,31821,Group,None
+SanDiego S,31074,Group,None
+SanDiego K,310014,Group,None
+SanDiego K,311111,Group,None
+SanDiego K,310343,Group,None
+SanDiego W,310980,Group,None
+SanDiego W,311057,Group,None
+Redlands, ,310013,Group,None
+Redlands, ,310566,Group,None
+Pittsburg,,310602,Group,None
+Livermore,,310603,Group,None
+Sausalito,,310718,Group,None
+Wilton, CA,310733,Group,None
+Valley Cen,311129,Group,None
+Calimesa, ,311161,Group,None
+Newport Be,311168,Group,None
+Sacrament ,311416,Group,None
+Fallbrook,,311573,Group,None
+Hayward, C,110694,Group,None
+Escondido,,311954,Group,None
+San Jose, ,310619,Group,None
+Tehachapi,,310675,Group,None
+Vacaville,,310703,Group,None
+Walnut Gro,312358,Group,None
+Bear Mount,312679,Group,None
+Unknown CA,312829,Group,None
+Blythe, CA,312063,Group,None
+Portola Va,312882,Group,None
+Vallejo, C,312749,Group,None
+Alphabet C,3186741,Group,None
+Colorado,3108,Group,None
+Colorado C,31080,Group,None
+Colorado-L,31082,Group,None
+Colorado A,310842,Group,None
+Colorado A,1108410,Group,None
+Colorado W,310873,Group,None
+Severe WX,,31083,Group,None
+NorthernCo,3171,Group,None
+Western Co,31086,Group,None
+Ski Co ARC,31085,Group,None
+Colorado I,31087,Group,None
+Fun Machin,310815,Group,None
+Colorado H,31088,Group,None
+Hytera USA,31089,Group,None
+Castle Roc,31700,Group,None
+Castle Roc,310345,Group,None
+Castle Roc,310700,Group,None
+Squaw Mtn,,310759,Group,None
+Denver Col,310800,Group,None
+Denver Rad,310804,Group,None
+Denver Sky,310847,Group,None
+Rocky Mtn ,310801,Group,None
+Rocky Mtn ,310894,Group,None
+North Mtn ,31084,Group,None
+Almagre Mt,310816,Group,None
+Pueblo Col,310843,Group,None
+Park Count,31081,Group,None
+Parker Col,310844,Group,None
+Boulder So,310813,Group,None
+Golden, CO,310811,Group,None
+Durango Co,310854,Group,None
+Red Feathe,310869,Group,None
+Silverthor,313150,Group,None
+Simla Colo,312837,Group,None
+Lakewood, ,313192,Group,None
+Connecticu,3109,Group,None
+Connecticu,31090,Group,None
+Connecticu,31092,Group,None
+Connecticu,31093,Group,None
+Connecticu,31094,Group,None
+Cornwall, ,310912,Group,None
+Bristol, C,310941,Group,None
+Delaware,3110,Group,None
+Delaware T,31100,Group,None
+Washington,3111,Group,None
+D.C.-TAC,31110,Group,None
+Florida,3112,Group,None
+Florida TA,31120,Group,None
+First Coas,31121,Group,None
+West Centr,31122,Group,None
+TreasureCo,31123,Group,None
+Nature Coa,31664,Group,None
+Gulf Coast,31670,Group,None
+Southeast,,31124,Group,None
+Southeast,,31622,Group,None
+Florida DE,31125,Group,None
+Florida AR,31127,Group,None
+Florida NE,31128,Group,None
+Orlando Fl,31129,Group,None
+Orlando Fl,111201,Group,None
+Orlando Fl,31126,Group,None
+Milton Flo,310031,Group,None
+Milton Flo,3186919,Group,None
+Beverly Hi,310311,Group,None
+Palm Bay,F,310438,Group,None
+Palm Bay,F,312270,Group,None
+Palm Bay,F,311576,Group,None
+Palm Coast,311406,Group,None
+W PalmBeac,312700,Group,None
+W PalmBeac,3112444,Group,None
+Pompano Be,310035,Group,None
+Englewood,,310442,Group,None
+Punta Gord,310972,Group,None
+Punta Gord,313548,Group,None
+Jacksonvil,311228,Group,None
+Jacksonvil,313087,Group,None
+Hudson,FL-,311264,Group,None
+Hudson,FL-,313557,Group,None
+Space Cent,311274,Group,None
+Portable R,310995,Group,None
+BRARA SE-F,311037,Group,None
+Florida Ho,311099,Group,None
+Marco Isla,311278,Group,None
+Lake Worth,311239,Group,None
+Callahan,F,311291,Group,None
+Fort Myers,311261,Group,None
+Pensacola,,311300,Group,None
+Miami Flor,311667,Group,None
+Deland Flo,311679,Group,None
+Ocala Flor,312383,Group,None
+St Augusti,3166422,Group,None
+Sarasota F,3177060,Group,None
+Cudjoe Key,312443,Group,None
+Key West F,3121536,Group,None
+Okeechobee,3179020,Group,None
+Allstar 46,31676,Group,None
+Wellington,3146894,Group,None
+Georgia,3113,Group,None
+South Geor,31132,Group,None
+North Geor,31134,Group,None
+Centra lGe,31135,Group,None
+Southwest,,31136,Group,None
+Georgia AR,31130,Group,None
+Atlanta Me,31131,Group,None
+Atlanta Me,310592,Group,None
+Georgia Sk,31139,Group,None
+Forsyth Ge,310028,Group,None
+Concord Ge,310248,Group,None
+Savannah G,310466,Group,None
+Douglas Ge,310996,Group,None
+Kingsland,,311307,Group,None
+Marietta G,311340,Group,None
+Eatonton G,311639,Group,None
+Athens Geo,312384,Group,None
+Folkston, ,311009,Group,None
+Clermont, ,311322,Group,None
+GA KingsLa,31137,Group,None
+Carnesvill,312486,Group,None
+GA SETN NW,31133,Group,None
+GA CLHUB M,3123917,Group,None
+GA MMDVM B,3190149,Group,None
+Hawaii,3115,Group,None
+Hawaii TAC,311551,Group,None
+Hawaii 2,31150,Group,None
+Hawaii Mau,31151,Group,None
+Hawaii Hon,31152,Group,None
+Hawaii Cou,31153,Group,None
+Hawaii Kau,31154,Group,None
+Hawaii HMA,31158,Group,None
+Hawaii DEM,31159,Group,None
+Hawaii DMR,310745,Group,None
+Haleakala,,311526,Group,None
+Hawaii Wai,311535,Group,None
+Idaho,3116,Group,None
+Idaho ARES,31160,Group,None
+Idaho ARES,31161,Group,None
+Central ID,31162,Group,None
+SE ID ARES,31164,Group,None
+SW ID ARES,31165,Group,None
+Idaho ARES,31166,Group,None
+Southwest ,31167,Group,None
+Cascade Id,311602,Group,None
+Boise Idah,313356,Group,None
+Illinois,3117,Group,None
+IL Round L,31170,Group,None
+Illinois L,31171,Group,None
+Illinois C,31172,Group,None
+N Illinois,31173,Group,None
+East Cntrl,31174,Group,None
+NA Astrono,31175,Group,None
+Chicago Me,31176,Group,None
+East Centr,31177,Group,None
+Illinois W,31178,Group,None
+Woodford,I,31179,Group,None
+Chicago St,31631,Group,None
+Schaumburg,311712,Group,None
+Winnebago,,311739,Group,None
+Morton,IL,311752,Group,None
+Danville,I,311761,Group,None
+Cntrl,IL S,311899,Group,None
+Indiana,3118,Group,None
+Indiana TA,31180,Group,None
+Indiana Li,31181,Group,None
+Indiana WX,31183,Group,None
+Parke-Verm,31184,Group,None
+Southern, ,31188,Group,None
+Crossroads,31189,Group,None
+Covington,,310480,Group,None
+Indianapol,311800,Group,None
+W Lafayett,311822,Group,None
+Covington,,311823,Group,None
+Newport, I,311842,Group,None
+St. Charle,312186,Group,None
+Auburn, IN,313382,Group,None
+Connersvil,311860,Group,None
+Fort Wayne,311841,Group,None
+Iowa,3119,Group,None
+Iowa Chat,31190,Group,None
+Iowa DSM -,31191,Group,None
+Iowa ALO -,31192,Group,None
+Iowa NW -3,31193,Group,None
+Iowa SW -4,31194,Group,None
+Iowa SE -5,31195,Group,None
+Iowa CID -,31196,Group,None
+Iowa WC -7,31197,Group,None
+Iowa NWS D,31198,Group,None
+IA NWS DMX,31199,Group,None
+Clear Lake,310551,Group,None
+Sioux City,313127,Group,None
+Muscatine ,310999,Group,None
+Kansas,3120,Group,None
+Kansas Cit,313136,Group,None
+Kansas Lin,31203,Group,None
+Central Ka,31204,Group,None
+Kansas BYR,31201,Group,None
+KS BYRG Sp,31202,Group,None
+Kansas SW ,31200,Group,None
+KS KC SkyW,31205,Group,None
+Cntrl KS S,31206,Group,None
+WY CO, KS ,31208,Group,None
+WY CO, KS ,31209,Group,None
+Kentucky,3121,Group,None
+Kentucky T,31214,Group,None
+East Kentu,31213,Group,None
+Kentucky A,31211,Group,None
+NE Kentuck,31212,Group,None
+Kentucky N,31219,Group,None
+Tennessee,,311035,Group,None
+Kentucky V,311953,Group,None
+Owensboro,,312104,Group,None
+Prestonsbu,312114,Group,None
+Louisa Ken,312116,Group,None
+Blackey, K,312128,Group,None
+Clearfield,3173892,Group,None
+KY Super T,312945,Group,None
+KY D-Star ,3121232,Group,None
+KY US-Trip,3160778,Group,None
+Louisiana,3122,Group,None
+Louisiana ,31220,Group,None
+ArkLaTex,31229,Group,None
+SE Louisia,31225,Group,None
+SWLouisian,311995,Group,None
+GulfCoast ,31226,Group,None
+LA SELCOM ,31221,Group,None
+LA AUXCOMM,31222,Group,None
+Louisiana ,312222,Group,None
+Acadiana, ,31223,Group,None
+LA XRF048 ,31224,Group,None
+Maine,3123,Group,None
+Maine TAC,31230,Group,None
+Biddeford ,312326,Group,None
+Maryland,3124,Group,None
+Maryland T,31242,Group,None
+MD RC CGR ,31240,Group,None
+MD Tyaskin,310993,Group,None
+MD Interst,311618,Group,None
+Massachuse,3125,Group,None
+MA TAC,31250,Group,None
+Boston Met,31251,Group,None
+MA Berkshi,31252,Group,None
+MA XRF054 ,31254,Group,None
+MA HCRA,31255,Group,None
+MA NEARC,31257,Group,None
+MA OTIS-1,312530,Group,None
+MA OTIS-2,312535,Group,None
+MA WB1GOF ,312543,Group,None
+Michigan,3126,Group,None
+West Michi,31267,Group,None
+Michigan U,31268,Group,None
+Detroit Me,312682,Group,None
+MI WX ARES,31260,Group,None
+Mi5 R5 AUX,31673,Group,None
+Mi5-STATEW,31261,Group,None
+Mi5-STATEW,31262,Group,None
+Mi5-EVENT-,31263,Group,None
+Mi5-EVENT-,31265,Group,None
+Michigan D,31264,Group,None
+Michigan R,31266,Group,None
+Michigan W,31269,Group,None
+Howell, MI,311887,Group,None
+Howell, MI,310195,Group,None
+Albion Mic,310226,Group,None
+Kalamazoo ,310797,Group,None
+Gogebic Mi,311878,Group,None
+Ann Arbor,,312645,Group,None
+Lansing Mi,312649,Group,None
+Charlotte ,312678,Group,None
+Waterlo Mi,312621,Group,None
+Munith Mic,313384,Group,None
+Minnesota,3127,Group,None
+Minnesota ,31270,Group,None
+Cntrl Minn,31271,Group,None
+Minnesota ,31272,Group,None
+MN Northst,31273,Group,None
+Minnesota ,31274,Group,None
+Southern M,31275,Group,None
+Minnesota ,31276,Group,None
+Brocklyn P,310219,Group,None
+Waseca Min,312734,Group,None
+Isanti Min,3197173,Group,None
+Mississipp,3128,Group,None
+Mississipp,31280,Group,None
+MS XRF813 ,31281,Group,None
+Northeast,,31285,Group,None
+Blind Hams,31286,Group,None
+Lucedale,312801,Group,None
+Amory, MS,310034,Group,None
+West Point,313189,Group,None
+Missouri,3129,Group,None
+SW Missour,31291,Group,None
+SW MO SkyW,31297,Group,None
+St. Louis ,31292,Group,None
+Missouri B,31293,Group,None
+Branson Me,31686,Group,None
+NW Missour,31294,Group,None
+SE Missour,31295,Group,None
+Central Mi,31296,Group,None
+Missouri A,31290,Group,None
+MO KC No. ,31298,Group,None
+MO CASS Co,31299,Group,None
+Missouri L,3180,Group,None
+Arnold Mis,310337,Group,None
+Osage Beac,312583,Group,None
+Cole Camp,,312594,Group,None
+Missouri S,312752,Group,None
+Plattsburg,312934,Group,None
+Washington,312935,Group,None
+Montana,3130,Group,None
+Montana Ch,31300,Group,None
+Montana MP,31301,Group,None
+Montana MP,31302,Group,None
+Montana MP,3130036,Group,None
+Montana MP,3130035,Group,None
+Montana BG,31303,Group,None
+Montana NW,31304,Group,None
+MT Bitterr,31305,Group,None
+Montana AR,31309,Group,None
+Nebraska,3131,Group,None
+Nebraska C,31319,Group,None
+Nebraska E,31310,Group,None
+Nebraska H,31311,Group,None
+Nevada,3132,Group,None
+Nevada TAC,31320,Group,None
+Nevada 1,31321,Group,None
+Nevada ARE,31322,Group,None
+Nevada ENA,31323,Group,None
+Nevada 4,31324,Group,None
+Nevada HXO,31325,Group,None
+Burning Ma,31326,Group,None
+Las Vegas ,31327,Group,None
+Nevada SNA,31328,Group,None
+Nevada SNA,31329,Group,None
+Ely Nevada,312799,Group,None
+Laughlin N,312877,Group,None
+Red Mtn Ne,313209,Group,None
+Nevada Fal,3132351,Group,None
+Elko Nevad,312497,Group,None
+New Hampsh,3133,Group,None
+NH TAC,31330,Group,None
+NH EmComm,31331,Group,None
+NH North,31332,Group,None
+NH South,31333,Group,None
+NH East,31334,Group,None
+NH West,31335,Group,None
+NH Alstead,313323,Group,None
+New Jersey,3134,Group,None
+New Jersey,31343,Group,None
+Cntrl New ,31340,Group,None
+South Jers,31341,Group,None
+North Jers,31342,Group,None
+N2MO OMARC,31349,Group,None
+Ocean Coun,31660,Group,None
+K2DMR STOR,31820,Group,None
+Riverdale,,310015,Group,None
+Belleville,312267,Group,None
+Springfiel,312473,Group,None
+Lk Hopatco,312822,Group,None
+Ocean Co, ,313333,Group,None
+Hoboken, N,313439,Group,None
+Elizabeth ,313444,Group,None
+New Mexico,3135,Group,None
+New Mexico,31350,Group,None
+Albuquerqu,313510,Group,None
+Albuquerqu,313509,Group,None
+ALBQ-MMDVM,3190205,Group,None
+La Mosca P,310793,Group,None
+Capilla Pe,310012,Group,None
+New York,3136,Group,None
+New York T,31431,Group,None
+New York U,31361,Group,None
+New York -,31362,Group,None
+New York A,31363,Group,None
+LWR Hudson,31364,Group,None
+K2MAK New ,31365,Group,None
+Chemung Co,3195,Group,None
+Madiso, NY,313601,Group,None
+Metro, NY ,31366,Group,None
+Southern T,31367,Group,None
+Mid-Hudson,31368,Group,None
+Monroe Cou,31369,Group,None
+Long Islan,31662,Group,None
+Valhalla, ,311438,Group,None
+Genesee Vl,311898,Group,None
+New York W,310799,Group,None
+Rochester,,312097,Group,None
+Bronx New ,313295,Group,None
+Brooklyn, ,31653,Group,None
+New York C,313613,Group,None
+Boston New,313693,Group,None
+Buffalo Ne,3167813,Group,None
+Albany New,3136275,Group,None
+North Caro,3137,Group,None
+NC TAC,31370,Group,None
+Triangle, ,31371,Group,None
+Central, N,31372,Group,None
+Eastern, N,31373,Group,None
+Carolina L,31374,Group,None
+The Hornet,31375,Group,None
+NC WNC Tac,31376,Group,None
+Outer Bank,31377,Group,None
+Outer Bank,3122718,Group,None
+NC WX,31378,Group,None
+Catawba Vl,31678,Group,None
+Hillsborou,310068,Group,None
+Greensboro,310891,Group,None
+Greenville,311095,Group,None
+Randleman,,313176,Group,None
+Sauratown,,313715,Group,None
+RCC-Link, ,313740,Group,None
+Asheville,,312092,Group,None
+NC NC4ES C,310001,Group,None
+North Dako,3138,Group,None
+North Dako,31380,Group,None
+Fargo, ND,311646,Group,None
+Ohio,3139,Group,None
+Ohio TAC,31390,Group,None
+Northeast ,31391,Group,None
+Southeast ,31393,Group,None
+Southwest ,31394,Group,None
+Southern O,313953,Group,None
+Central Oh,31392,Group,None
+Ohio ARES,31395,Group,None
+Ohio EMCOM,31398,Group,None
+Ohio SkyWa,31685,Group,None
+W8SDR DMR ,31396,Group,None
+Ohio Link-,31399,Group,None
+Bellbrook ,310557,Group,None
+Greenville,310746,Group,None
+Doylestown,310961,Group,None
+Wooster Oh,311070,Group,None
+Stockport ,312296,Group,None
+Findlay Oh,312371,Group,None
+Clermont C,313913,Group,None
+Mansfield ,313920,Group,None
+Montville ,313923,Group,None
+Atwater Oh,313931,Group,None
+Warrensvil,313932,Group,None
+Marietta O,313938,Group,None
+Akron Ohio,313959,Group,None
+Marion Ohi,313964,Group,None
+Marysville,313966,Group,None
+Meigs Co O,313973,Group,None
+Massillon ,313989,Group,None
+Youngstown,313979,Group,None
+Oklahoma,3140,Group,None
+Oklahoma T,31400,Group,None
+Oklahoma C,31401,Group,None
+Oklahoma E,31402,Group,None
+Oklahoma W,31403,Group,None
+SE OK EM T,31404,Group,None
+Oklahoma W,31408,Group,None
+Oklahoma L,310130,Group,None
+Fort Gibso,314004,Group,None
+Bartlesvil,314005,Group,None
+Oklahoma S,314016,Group,None
+Oklahoma Y,3140122,Group,None
+Oregon,3141,Group,None
+Oregon TAC,31410,Group,None
+Central Or,31411,Group,None
+Western Or,31412,Group,None
+RepeaterBo,31419,Group,None
+Stanfield ,312957,Group,None
+EastCoast ,3129973,Group,None
+Pennsylvan,3142,Group,None
+Pennsylvan,31421,Group,None
+PEMA EmCom,31420,Group,None
+Western, P,31422,Group,None
+North Cent,31423,Group,None
+Northeast,,31424,Group,None
+PA Cross-M,31425,Group,None
+PA EPA DMR,31426,Group,None
+PA Tri-Cou,31427,Group,None
+PA RF-IT,31428,Group,None
+PA Zednet,31429,Group,None
+PA PADMR G,3190,Group,None
+PA KC2ABV ,310188,Group,None
+PA PennLin,310304,Group,None
+Jennersvil,310463,Group,None
+Fort Venan,310877,Group,None
+PA SCPA Ch,311584,Group,None
+Macungie, ,311684,Group,None
+Poconos HU,312085,Group,None
+Indiana, P,313037,Group,None
+Williamspo,314230,Group,None
+Williamspo,3175335,Group,None
+Greenville,314242,Group,None
+Tamaqua, P,314267,Group,None
+Johnstown,,314270,Group,None
+Bedford, P,3192899,Group,None
+Cornwall, ,314259,Group,None
+Westfield,,313468,Group,None
+Rhode Isla,3144,Group,None
+RI Chat,31441,Group,None
+RI Digital,31444,Group,None
+Quahog Rpt,31445,Group,None
+MMDVM Brid,3105992,Group,None
+South Caro,3145,Group,None
+SC TAC,31451,Group,None
+SC ARES,31450,Group,None
+Low Countr,31456,Group,None
+Upstate, S,31457,Group,None
+Midlands, ,31458,Group,None
+Pee Dee, S,31459,Group,None
+Bluffton, ,3120574,Group,None
+KK4FU Chat,3145153,Group,None
+South Dako,3146,Group,None
+SD ARES,31460,Group,None
+SD WW High,31461,Group,None
+SD Digital,31466,Group,None
+Tennessee,3147,Group,None
+Tennessee ,31475,Group,None
+Memphis Me,314706,Group,None
+Knoxville ,31473,Group,None
+Mid-South ,31470,Group,None
+TN NWS Mem,31471,Group,None
+TN Skywarn,31472,Group,None
+TN Fusion-,31474,Group,None
+Tennessee ,31476,Group,None
+Gatlinburg,31477,Group,None
+Tennessee ,31478,Group,None
+TN The Lig,31479,Group,None
+Jackson, T,310543,Group,None
+Blaine Ten,310994,Group,None
+Unicoi Ten,313197,Group,None
+Bartlett, ,313342,Group,None
+Knoxville,,314703,Group,None
+Greenevill,314704,Group,None
+Gallatin, ,314709,Group,None
+Bartlett, ,314710,Group,None
+Southeast ,314722,Group,None
+Maryville,,314742,Group,None
+Cleveland,,3164737,Group,None
+Texas,3148,Group,None
+Texas TAC,31489,Group,None
+Texas Chat,31480,Group,None
+North Texa,31481,Group,None
+South Texa,31482,Group,None
+West Texas,31483,Group,None
+Central Te,31488,Group,None
+Southeast ,31484,Group,None
+Texas ARES,314877,Group,None
+Amarillo W,31485,Group,None
+Texas SkyW,31486,Group,None
+Texas ARES,31487,Group,None
+San Antoni,310217,Group,None
+SanAntonio,310377,Group,None
+Flower Mou,310874,Group,None
+Lubbock Te,311178,Group,None
+Lubbock Te,310282,Group,None
+Liberty Hi,312269,Group,None
+TX So.Coas,312681,Group,None
+Georgetown,313039,Group,None
+Georgetown,313772,Group,None
+Asherton,T,312972,Group,None
+Eagle Pass,313187,Group,None
+Troy Texas,314891,Group,None
+Crockett T,315807,Group,None
+Dripping S,114802,Group,None
+Brownsvill,315818,Group,None
+Willis, TX,3116923,Group,None
+Texas A & ,3167972,Group,None
+Utah,3149,Group,None
+Utah TAC,31499,Group,None
+Utah Chat,31494,Group,None
+Utah 76ers,31490,Group,None
+Northern U,31491,Group,None
+Davis Utah,31492,Group,None
+Northeast ,31493,Group,None
+Utah UORRT,311662,Group,None
+Utah Ragch,314900,Group,None
+Utah Ragch,314901,Group,None
+Vermont,3150,Group,None
+Vermont TA,31500,Group,None
+Arlington,,312461,Group,None
+Florence, ,3150174,Group,None
+Virginia,3151,Group,None
+Virginia T,31510,Group,None
+SW Virgini,31513,Group,None
+Richmond M,31511,Group,None
+VA ARES Em,31512,Group,None
+Shenandoah,31514,Group,None
+Tidewater,,31515,Group,None
+VA Peninsu,31516,Group,None
+Pungoteagu,310328,Group,None
+Fancy Gap,,311351,Group,None
+Vienna Vir,315120,Group,None
+Mtn Lake, ,315128,Group,None
+Roanoke, V,315136,Group,None
+Vienna, VA,315145,Group,None
+Haymarket,,315148,Group,None
+Washington,3153,Group,None
+WA PNW-Wes,31530,Group,None
+WA Olympic,31531,Group,None
+WA QRM Net,31535,Group,None
+Seattle, W,310884,Group,None
+Spokane, W,315310,Group,None
+Silverdale,311429,Group,None
+Washington,31538,Group,None
+WA ARES TA,31539,Group,None
+West Virgi,3154,Group,None
+WV TAC,31540,Group,None
+WV ARES,31541,Group,None
+Wisconsin,3155,Group,None
+Wisconsin ,31550,Group,None
+Wisconsin ,31551,Group,None
+Wisconsin ,31555,Group,None
+WI ARES Em,31556,Group,None
+Chilton, W,310787,Group,None
+Townsend, ,311630,Group,None
+Brothertow,311680,Group,None
+Appleton, ,315518,Group,None
+Merrill, W,313542,Group,None
+Wyoming,3156,Group,None
+Wyoming Ta,31561,Group,None
+SE Wyoming,31560,Group,None
+Wyoming WX,31563,Group,None
+SW Wyoming,31564,Group,None
+NW Wyoming,31565,Group,None
+NE Wyoming,31566,Group,None
+Central Wy,31567,Group,None
+USA-TAC 31,310,Group,None
+USA-TAC 31,311,Group,None
+USA-TAC 31,312,Group,None
+USA-TAC 31,313,Group,None
+USA-TAC 31,314,Group,None
+USA-TAC 31,315,Group,None
+USA-TAC 31,316,Group,None
+USA-TAC 31,317,Group,None
+USA-TAC 31,318,Group,None
+USA-TAC 31,319,Group,None
+USA - Area,31600,Group,None
+USA - Area,31601,Group,None
+USA - Area,31602,Group,None
+USA - Area,31603,Group,None
+USA - Area,31604,Group,None
+USA - Area,31605,Group,None
+USA - Area,31606,Group,None
+USA - Area,31607,Group,None
+USA - Area,31608,Group,None
+USA - Area,31609,Group,None
+Net Talkgr,31001,Group,None
+Net Talkgr,31002,Group,None
+USA Nation,3100,Group,None
+Midwest,3169,Group,None
+Northeast,3172,Group,None
+Mid-Atlant,3173,Group,None
+Southeast,3174,Group,None
+Southern P,3175,Group,None
+Southwest,3176,Group,None
+Pacific WN,31771,Group,None
+Mountain,3177,Group,None
+IL/IN/WI T,31691,Group,None
+SwiNe,31629,Group,None
+US EmComm,9911,Group,None
+US Hurrica,3199,Group,None
+USA EmComm,31000,Group,None
+S & Rescue,31681,Group,None
+S & Rescue,31682,Group,None
+Civil Air ,3160,Group,None
+America Li,31656,Group,None
+Cactus,3185,Group,None
+POTA,3181,Group,None
+DV Switch,3166,Group,None
+Allstar,3167,Group,None
+ATV,3196,Group,None
+Ham Radio ,31621,Group,None
+PS Chat,31623,Group,None
+STEM,31630,Group,None
+Billy Bob ,31648,Group,None
+RVing Hams,31652,Group,None
+4SQRP,31654,Group,None
+Truck-N-Tr,31663,Group,None
+Venture Ov,31655,Group,None
+OutdoorAdv,31772,Group,None
+OMIK,31661,Group,None
+DMR Campfi,31665,Group,None
+DMR of Ana,31666,Group,None
+Old Friend,31667,Group,None
+Sta-Mar,31668,Group,None
+Global DX ,31669,Group,None
+Youth ARC,31671,Group,None
+PI-Star Ch,31672,Group,None
+Maritime R,31674,Group,None
+Maritime R,31694,Group,None
+REF020A Br,31675,Group,None
+The Geek G,31679,Group,None
+NE HUB,31688,Group,None
+Russian Am,31697,Group,None
+Greek Amer,31699,Group,None
+RFinder Us,31770,Group,None
+Geeks in J,31773,Group,None
+Weather Wa,31774,Group,None
+Liberty Ta,31776,Group,None
+Gathering ,31801,Group,None
+The Chat L,31802,Group,None
+Secret Tal,31803,Group,None
+Coffee DMR,31888,Group,None
+900 Mhz Rp,31900,Group,None
+Rizal Lati,31933,Group,None
+Handi-Hams,31990,Group,None
+Ham Radio ,3177826,Group,None
+ICQ Podcas,9480,Group,None
+WW Maritim,9101,Group,None
+WW Aviatio,9102,Group,None
+XRF007 B,9107,Group,None
+EmCom EU,9112,Group,None
+EURAO,9201,Group,None
+ATV Talk,9410,Group,None
+OpenGD77,98977,Group,None
+AMSAT,98006,Group,None
+Reddit,98003,Group,None
+Military V,98008,Group,None
+Wireless V,98638,Group,None
+World-wide,91,Group,None
+Europe,92,Group,None
+North Amer,93,Group,None
+Asia, Midd,94,Group,None
+Australia,,95,Group,None
+Radio Test,98,Group,None
+WW Tac-1,901,Group,None
+WW Tac-2,902,Group,None
+WW Tac-3,903,Group,None
+SOTA,973,Group,None
+JOTA,907,Group,None
+English,913,Group,None
+European E,923,Group,None
+Australia-,505,Group,None
+AU-XLX500 ,5050,Group,None
+AU-Cap Ter,5051,Group,None
+AU-New So.,5052,Group,None
+AU-Victori,5053,Group,None
+AU-Queensl,5054,Group,None
+South Aust,5055,Group,None
+West Austr,5056,Group,None
+AU-Tasmani,5057,Group,None
+AU-No.Terr,5058,Group,None
+AU-XLX389A,50501,Group,None
+AU-XLX389C,50503,Group,None
+AU-XLX510 ,50510,Group,None
+AU-IARS Ch,50521,Group,None
+AU-P25 Bri,50525,Group,None
+AU-CCARC,50526,Group,None
+AU-VK3 Cha,50531,Group,None
+AU-S.P.A.R,50533,Group,None
+AU-NEX-GEN,50539,Group,None
+AU-WICEN,50566,Group,None
+AU-VK2HK-Y,50590,Group,None
+AU-VK2GP-Y,50591,Group,None
+AU-VK3KAY-,50592,Group,None
+AU-XRF-740,50593,Group,None
+AU-VK2RFG,50594,Group,None
+AU-XRF-740,5059742,Group,None
+AU-AX OH0,2440,Group,None
+AU-AX OH0 ,24400,Group,None
+AU-AX OH0 ,24409,Group,None
+Canada Wid,302,Group,None
+BC-Newfoun,3020,Group,None
+BC-Nova Sc,3021,Group,None
+BC-Quebec,3022,Group,None
+BC-Ontario,3023,Group,None
+BC-Manitob,3024,Group,None
+BC-Saskatc,3025,Group,None
+BC-Alberta,3026,Group,None
+British Co,3027,Group,None
+BC-Nunavut,3028,Group,None
+BC-New Bru,3029,Group,None
+BC-FlexRad,30234,Group,None
+BC-SWARC,30235,Group,None
+Canada BC-,30271,Group,None
+Canada BC-,30272,Group,None
+BC Vancouv,30273,Group,None
+UK-Call-23,235,Group,None
+UK-Calling,2350,Group,None
+UK-Chat-1,2351,Group,None
+UK-Chat-2,2352,Group,None
+UK-Chat-3,2353,Group,None
+UK-Ireland,2354,Group,None
+UK-Scotlan,2355,Group,None
+UK-Wales,2356,Group,None
+UK-Isle of,2357,Group,None
+UK-London,2358,Group,None
+UK-Kernow,2359,Group,None
+UK-East An,23490,Group,None
+UK-S.West,23500,Group,None
+UK-S.East,23510,Group,None
+UK-Guernse,23515,Group,None
+UK-Jersey,23516,Group,None
+UK-N.West,23520,Group,None
+UK-Hubnet ,23526,Group,None
+UK-Yorkshi,23530,Group,None
+UK-RAYNET ,23531,Group,None
+UK-Ireland,23540,Group,None
+UK-Scotlan,23550,Group,None
+UK-Scotlan,23557,Group,None
+UK-Highlan,23558,Group,None
+UK-Scotlan,23559,Group,None
+UK-North E,23560,Group,None
+UK-M62 Cor,23562,Group,None
+UK-Wales C,23570,Group,None
+UK-SALOP C,23575,Group,None
+UK-West Mi,23580,Group,None
+UK-East Mi,23590,Group,None
+UK-JOTA UK,235907,Group,None
+Ireland-27,272,Group,None
+IE-Calling,2722,Group,None
+IE-Chat,2723,Group,None
+IE-Bridge ,2724,Group,None
+IE-AREN Lo,2729,Group,None
+IE-AREN lo,27230,Group,None
+IE-SIRN Ga,27240,Group,None
+IE-XLX 925,27247,Group,None
+IE-XLX 925,27248,Group,None
+IE-Connach,27250,Group,None
+IE-Leinste,27251,Group,None
+IE-Munster,27252,Group,None
+IE-Ulster,27253,Group,None
+IE-So.Irel,27254,Group,None
+IE-Galway ,27255,Group,None
+IE-EMF Cam,27273,Group,None
+IE-AREN TA,27291,Group,None
+IE-JOTA IR,272907,Group,None
+ZL-Nationa,530,Group,None
+ZL1-Region,5301,Group,None
+ZL2-Region,5302,Group,None
+ZL3-Region,5303,Group,None
+ZL4-Region,5304,Group,None
+ZL-XLX 626,53020,Group,None
+ZL-IFROAR,53021,Group,None
+ZL-XLX 299,53029,Group,None
+ZL-XLX 751,53050,Group,None
+ZL-Taupo N,53060,Group,None
+ZL-XLX750,53099,Group,None
+ZA-South A,655,Group,None
+ZA-SARL Ha,6558,Group,None
+BM Parrot-,9990,Private,None
+GC Parrot,9998,Private,None
+BM Parrot-,310991,Private,None
+BM Parrot-,310997,Private,None
+BM Disconn,4000,Group,None
+TGIF TalkB,5006282,Group,None
+TGIF N0LSB,5006222,Group,None
+TGIF Main,5031665,Group,None
+TGIF Ameri,5031183,Group,None
+TGIF NY.NJ,5031360,Group,None
+TGIF Tac-1,5000101,Group,None
+TGIF Tac-1,5000102,Group,None
+TGIF Tac 1,5000103,Group,None
+TGIF Tac-1,5000104,Group,None
+TGIF Tac-1,5000105,Group,None
+TGIF Tac-1,5000106,Group,None
+TGIF Tac-1,5000107,Group,None
+TGIF Tac-1,5000108,Group,None
+TGIF Tac-1,5000109,Group,None
+TGIF No. A,5000110,Group,None
+TGIF Europ,5000111,Group,None
+TGIF AsiaP,5000112,Group,None
+TGIF WW En,5000113,Group,None
+TGIF World,5000114,Group,None
+TGIF UK,5000116,Group,None
+TGIF Amate,5000224,Group,None
+TGIF YSF A,5000290,Group,None
+TGIF Ham &,5000305,Group,None
+TGIF W Ala,5001222,Group,None
+TGIF 1337 ,5001337,Group,None
+TGIF Hams ,5004647,Group,None
+TGIF Alaba,5031010,Group,None
+TGIF N Ala,5031014,Group,None
+TGIF ORL H,5031129,Group,None
+TGIF NE Mi,5031285,Group,None
+TGIF SC Mi,5031286,Group,None
+TGIF S Mis,5031287,Group,None
+TGIF NW Mi,5031288,Group,None
+TGIF Jeep ,5040251,Group,None
+TGIF SE Li,5043389,Group,None
+TGIF Exit,5004000,Group,None
+TGIF Bored,5049562,Group,None
+TGIF Parro,5009990,Group,None
+TGIF Exit,5004000,Group,None
+XLX REF Ta,6,Group,None
+XLX Status,65000,Private,None
+XLX Disonn,64000,Private,None
+Connect to,68000,Private,None
+Connect to,68002,Private,None
+Connect to,68004,Private,None
+Connect to,68013,Private,None
+Connect to,68028,Private,None
+Connect to,68037,Private,None
+Connect to,68050,Private,None
+Move to Mo,64001,Private,None
+Move to Mo,64002,Private,None
+Move to Mo,64003,Private,None
+Move to Mo,64004,Private,None
+Move to Mo,64005,Private,None
+Move to Mo,64006,Private,None
+Move to Mo,64007,Private,None
+Move to Mo,64008,Private,None
+FDMR Dial-,8000009,Group,None
+FDMR World,8000091,Group,None
+FDMR POTA,8000970,Group,None
+FDMR Natio,8003100,Group,None
+FDMR NA TA,8031001,Group,None
+FDMR NA TA,8031002,Group,None
+FDMR NA TA,8031003,Group,None
+FDMR Alaba,8003101,Group,None
+FDMR Alask,8003102,Group,None
+FDMR Arizo,8003104,Group,None
+FDMR Arkan,8003105,Group,None
+FDMR Calif,8003106,Group,None
+FDMR CA Li,8031060,Group,None
+FDMR CA TA,8031061,Group,None
+FDMR NorCa,8031068,Group,None
+FDMR Color,8003108,Group,None
+FDMR Conne,8003109,Group,None
+FDMR Delaw,8003110,Group,None
+FDMR D.C.,8003111,Group,None
+FDMR Flori,8003112,Group,None
+FDMR Georg,8003113,Group,None
+FDMR Hawai,8003115,Group,None
+FDMR Idaho,8003116,Group,None
+FDMR Illin,8003117,Group,None
+FDMR India,8003118,Group,None
+FDMR Iowa,8003119,Group,None
+FDMR Kansa,8003120,Group,None
+FDMR Kentu,8003121,Group,None
+FDMR Louis,8003122,Group,None
+FDMR Maine,8003123,Group,None
+FDMR Maryl,8003124,Group,None
+FDMR Massa,8003125,Group,None
+FDMR Michi,8003126,Group,None
+FDMR Minne,8003127,Group,None
+FDMR Missi,8003128,Group,None
+FDMR Misso,8003129,Group,None
+FDMR Monta,8003130,Group,None
+FDMR Nebra,8003131,Group,None
+FDMR Nevad,8003132,Group,None
+FDMR NH,8003133,Group,None
+FDMR New J,8003134,Group,None
+FDMR New M,8003135,Group,None
+FDMR New Y,8003136,Group,None
+FDMR NC TA,8003137,Group,None
+FDMR East ,8031373,Group,None
+FDMR OBX,8031377,Group,None
+FDMR NC TA,8031379,Group,None
+FDMR ND,8003138,Group,None
+FDMR Ohio,8003139,Group,None
+FDMR Oklah,8003140,Group,None
+FDMR Orego,8003141,Group,None
+FDMR PA,8003142,Group,None
+FDMR Puert,8003143,Group,None
+FDMR Rhode,8003144,Group,None
+FDMR SC,8003145,Group,None
+FDMR SD,8003146,Group,None
+FDMR Tenne,8003147,Group,None
+FDMR Texas,8003148,Group,None
+FDMR Utah,8003149,Group,None
+FDMR Vermo,8003150,Group,None
+FDMR Virgi,8003151,Group,None
+FDMR Virgi,8003152,Group,None
+FDMR Washi,8003153,Group,None
+FDMR WV,8003154,Group,None
+FDMR Wisco,8003155,Group,None
+FDMR Wyomi,8003156,Group,None
+FDMR X-Roa,8003160,Group,None
+FDMR South,8003165,Group,None
+FDMR WW Ne,8316501,Group,None
+FDMR DVSwi,8003166,Group,None
+FDMR WA-PN,8316601,Group,None
+FDMR ECHO ,8310001,Group,None
+FDMR Flori,8031120,Group,None
+FDMR Piedm,8031378,Group,None
+FDMR WNY-D,8310441,Group,None
+FDMR NY-NJ,8031360,Group,None
+FDMR Upsta,8031361,Group,None
+FDMR NY-Me,8031362,Group,None
+FDMR So.Ti,8031376,Group,None
+FDMR Monro,8031369,Group,None
+FDMR So. J,8031341,Group,None
+FDMR No. J,8031342,Group,None
+FDMR San D,8310014,Group,None
+FDMR Weste,8031177,Group,None
+FDMR BayAr,8031069,Group,None
+FDMR Georg,8031138,Group,None
+FDMR Arkan,8031050,Group,None
+FDMR NW Ar,8031058,Group,None
+FDMR FAY A,8031479,Group,None
+FDMR Littl,8031501,Group,None
+FDMR Ameri,8031656,Group,None
+FDMR Wisco,8031555,Group,None
+FDMR Alaba,8031010,Group,None
+FDMR YARC-,8031261,Group,None
+FDMR AR YS,8031059,Group,None
+FDMR NA Ta,8031290,Group,None
+FDMR KS Ci,8031299,Group,None
+FDMR TGIF-,8031665,Group,None
+FDMR USA-3,8000310,Group,None
+FDMR Disc,8004000,Group,None
+DMR+ QN Ma,8000320,Group,None
+DMR+ QN Te,8000321,Group,None
+DMR+ Echo,8009990,Group,None
+DMR+ TG Di,8000400,Group,None
+DMR+ World,8000001,Group,None
+DMR+ Europ,8000002,Group,None
+DMR+ No Am,8000003,Group,None
+DMR+ Asia,8000004,Group,None
+DMR+ Ocean,8000005,Group,None
+DMR+ WW En,8000013,Group,None
+DMR+ TAC-1,8000113,Group,None
+DMR+ TAC-1,8000123,Group,None
+DMR+ TAC-1,8000133,Group,None
+DMR+ UK,8000235,Group,None
+DMR+ Canad,8000302,Group,None
+DMR+ So.Ea,8000323,Group,None
+DMR+ Do Dr,8000326,Group,None
+DMR+ Fusio,8000369,Group,None
+DMR+ Austr,8000505,Group,None
+DMR+ New Z,8000530,Group,None
+DMR+ EMCOM,8009112,Group,None
+REF Talk,8,Group,None
+REF Status,8005000,Group,None
+REF Discon,8004000,Group,None
+REF TAC 31,8004638,Group,None
+REF Nation,8004639,Group,None
+REF Midwes,8004640,Group,None
+REF New En,8004641,Group,None
+REF Northe,8004642,Group,None
+REF MidAtl,8004643,Group,None
+REF Southe,8004644,Group,None
+REF So Pla,8004645,Group,None
+REF Southw,8004646,Group,None
+REF Mounta,8004647,Group,None
+REF Great ,8004648,Group,None
+REF Tri IL,8004649,Group,None
+REF Washin,8004611,Group,None
+REF Minnes,8004605,Group,None
+REF KiwiDM,8004853,Group,None
+REF So. Pa,8004851,Group,None
+REF New Ze,8004850,Group,None
+REF Canada,8004580,Group,None
+REF Austra,8004800,Group,None
+REF DMR-Al,8004635,Group,None
+REF Michig,8004618,Group,None
+REF ARES,8004911,Group,None
+HS Power O,9999996,Private,None
+HS Reboot,9999997,Private,None
+HS Reconne,9999994,Private,None
+HS SVC Res,9999998,Private,None
+HS SVC Kil,9999999,Private,None
+HS Hostfil,9999995,Private,None
