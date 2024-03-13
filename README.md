@@ -4,17 +4,18 @@
 ## Introduction
 This codeplug was developed for a fellow member of the George County ARES team. I will be adding to this codeplug during the coming weeks as I now have purchased one of these radios.
 
-I will probably build this codeplug to be quite similar to the AnyTone codeplug I have in another project.
-
 Feel free to reach out to me if you have any requests.
 
 ## Features
-This is the initial version of the codeplug.
+George County codeplug:
  - 64 Channels
  - 30 Talk Groups
  - 3 Zones
- 
- Yeah, I know. Pretty spartan. More's coming.
+
+Multi-Network Codeplug:
+ - 1247 Channels
+ - 1173 Talk Groups
+ - 65 Zones
  
 ## Use
 Enter your call sign and DMR ID in the codeplug.
@@ -24,7 +25,7 @@ Make sure that your radio is running the March 2023 Firmware Version
 - B: B49C.D6T.EHRNAB.008
 
 ## Hotspot
-I have programmed the Hotspot frequency at 446.1875.
+I have programmed the Hotspot frequency at 438.8000.
 
-You can do a search for `44618750` and replace it with the frequency of your hotspot. This codeplug doesn't place a decimal in the frequency for some reason.
+You can do a search for `438800000` and replace it with the frequency of your hotspot. This codeplug doesn't place a decimal in the frequency for some reason.
 
