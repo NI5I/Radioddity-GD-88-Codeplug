@@ -1,5 +1,5 @@
-# Radioddity-GD-88-Mississippi-Codeplug
- George County Mississippi Codeplug for Radioddity GD-88
+# Radioddity GD-88 Codeplug
+ Here is a codeplug for Mississippi Hams courtesy of George County ARES Team.
 
 ## Introduction
 This codeplug was developed for a fellow member of the George County ARES team. I will be adding to this codeplug during the coming weeks as I now have purchased one of these radios.
